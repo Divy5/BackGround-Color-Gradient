@@ -3,4 +3,4 @@ Welcome to the Color Gradient website, a creative and visually captivating platf
 
 # Demo
 
-![imgae alt]()
+![imgae alt](https://github.com/Divy5/BackGround-Color-Gradient/blob/ceda4d2b809d126b310c3f0bf3422cb3d1e94960/Screenshot%202025-01-23%20172206.png)
